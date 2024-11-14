@@ -80,3 +80,4 @@ Los polinomios se pueden reorganizar de tal forma que queden las matrices que fo
 
 
 
+
