@@ -85,6 +85,11 @@ Figura 2. Matriz C espacio de estados de forma canonica controlable.
 
 ###espacio de estados de forma canonica Obserbable
 
+si tenemos una matriz de la forma:
+
+$$\frac{b0Z^{n}+b1Z^{n-1}+...+b{n-1}Z+bn}{Z^{n}+a1Z^{n-1}+...+a{n-1}Z+an}$$
+
+
 ![Matrices A y B espacio de estados de forma canonica controlable](mat3.png)
 
 Figura 3. Matriz A y B espacio de estados de forma canonica Obserbable.
