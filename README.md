@@ -75,7 +75,7 @@ $$\frac{b0Z^{n}+b1Z^{n-1}+...+b{n-1}Z+bn}{Z^{n}+aZ^{n-1}+...+a{n-1}Z+an}$$
 
 Los polinomios se pueden reorganizar de tal forma que queden las matrices que forman el espacio de estados.
 
-![Ejemplo redes de atraso](imagenes/ejemplo4.jpg)
+![Matriz A y B espacio de estados de forma canonica controlable](mat1.png)
 
 
 
