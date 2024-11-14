@@ -98,6 +98,18 @@ Figura 3. Matriz A y B espacio de estados de forma canonica Obserbable.
 
 Figura 4. Matriz C espacio de estados de forma canonica Obserbable.
 
+### Forma canonica Diagonal
+
+Si en lugar de dos polinomios, conocemos solo los polos y los ceros de la funcion, tambien es posible usarlos para representar el sistema dinamico en espacios de estado.
+
+![Matrices A y B espacio de estados de forma canonica controlable](mat5.png)
+
+Figura 5. Matriz A y B espacio de estados de forma canonica Diagonal.
+
+![Matriz C espacio de estados de forma canonica controlable](mat6.png)
+
+Figura 6. Matriz C espacio de estados de forma canonica Diagonal.
 
 
+En donde P se refiere a cada uno de los polo del sistema, y C son los coeficientes encontrados al aplicar fracciones parciales a la funcion de transferencia.
 
