@@ -75,7 +75,11 @@ $$\frac{b0Z^{n}+b1Z^{n-1}+...+b{n-1}Z+bn}{Z^{n}+aZ^{n-1}+...+a{n-1}Z+an}$$
 
 Los polinomios se pueden reorganizar de tal forma que queden las matrices que forman el espacio de estados.
 
-![Matriz A y B espacio de estados de forma canonica controlable](mat1.png)
+![Matrices A y B espacio de estados de forma canonica controlable](mat1.png)
+Figura 1. Matriz A y B espacio de estados de forma canonica controlable.
+
+![Matriz C espacio de estados de forma canonica controlable](mat2.png)
+Figura 2. Matriz C espacio de estados de forma canonica controlable.
 
 
 
