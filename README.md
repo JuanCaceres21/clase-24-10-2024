@@ -21,7 +21,7 @@ C es la matriz de salida
 
 D es la matriz de transmision directa
 
-### Espacios de estado a partir de una ecuacion en diferencias
+## Espacios de estado a partir de una ecuacion en diferencias
 Las ecuaciones en diferencias son una forma de representar los sistemas de forma discreta, a partir de estas ecuaciones se pueden obtener las matrices A, B, C, D las cuales le daran forma a el espacio de estados que representara el comportamiento de este sistema dinamico.
 
 Se deben seguir los siguientes pasos:
@@ -54,4 +54,29 @@ $$X1(K+1)=X2(k)$$ Ecuacion de estado 1
 
 $$X2(K+1)=Y(K+2)$$ Ecuacion de estado 2
 
+Por lo tanto:
+
+$$X2(K+1)=$$
+
 Procedemos a ordenar la matriz con las ecuaciones de estado encontradas:
+
+$$[1,2,3;1,2,3]$$
+
+
+## Espacio de estados a partir de una funcion de transferencia
+
+Como lo habiamos visto antes, podemos tomar una funcion que represente un sistema dinamico y transformarla en un espacio de estados, en este ceso es mas sencillo encontrar las matrices, ya que solo se necesita reubicar los coeficiente de cada factor de los polinomios del numerador y denominador, cabe aclarar que hay 3 maneras diferentes de ordenar estas matrices, dependiendo de en que forma queramos el espacio de estados.
+
+###espacio de estados de forma canonica controlable
+
+si tenemos una matriz de la forma:
+
+$$\frac{b0Z^{n}+b1Z^{n-1}+...+b{n-1}Z+bn}{Z^{n}+aZ^{n-1}+...+a{n-1}Z+an}$$
+
+Los polinomios se pueden reorganizar de tal forma que queden las matrices que forman el espacio de estados.
+
+
+
+
+
+
